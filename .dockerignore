@@ -1,0 +1,9 @@
+.git
+.streamlit
+venv
+__pycache__
+*.pyc
+.env
+dados_juridicos.xlsx
+Dockerfile
+.dockerignore
